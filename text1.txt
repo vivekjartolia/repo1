@@ -1,10 +1,1 @@
- Volume in drive C is Windows
- Volume Serial Number is 92FD-5B19
-
- Directory of C:\Users\AY079TX\Desktop\CICD
-
-06-03-2023  12:23    <DIR>          .
-06-03-2023  12:23    <DIR>          ..
-06-03-2023  12:23                 0 text1.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  372,806,656,000 bytes free
+change
